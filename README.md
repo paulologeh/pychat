@@ -8,7 +8,7 @@
   <h3 align="center">Pychat</h3>
 
   <p align="center">
-    Bringing the doge community together
+    Bringing the community together
     <br />
     <a href="https://app.dodge-chat.com/"><strong>Go to app</strong></a>
     <br />
@@ -46,7 +46,7 @@ tutorial</strong></a>
   <img src="sample_images/product12.png" width="400"/>
 </div>
 
-Pychat is an app to help you connect with fellow doge coin enthusiasts
+Pychat is an app to help you connect with fellow python enthusiasts
 
 ### Built With
 
@@ -66,14 +66,6 @@ This project was built with the following tools:
 ### Getting Started
 
 TBD
-
-### Deployment
-
-* CloudFlare for DNS management.
-* Hosted on my dev vm instance on Google cloud compute engine.
-* Uses nginx proxy on the vm that
-  - Upgrades HTTP connections to HTTPS 
-  - Routes traffic to the relevant application
 
 ### Gravatar generator
 
