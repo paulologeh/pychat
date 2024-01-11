@@ -10,7 +10,7 @@
   <p align="center">
     Bringing the community together
     <br />
-    <a href="https://app.dodge-chat.com/"><strong>Go to app</strong></a>
+    <a href="https://app.pychat.paullabs.cloud/"><strong>Go to app</strong></a>
     <br />
     <i><small>Search for "Paul" to find me</small></i>
     <br />
