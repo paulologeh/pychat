@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "platform"
+version = "0.1.0"
+description = "backend for platform"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+# package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flask = "^3.0.2"
+gunicorn = "^21.2.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.3.0"
+pytest = "^8.1.1"
+python-dotenv = "^1.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
